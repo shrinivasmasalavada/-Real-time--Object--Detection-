@@ -2,7 +2,7 @@
 Real-time object detection using Python, OpenCV and YOLO. This project detects objects from webcam/live video.
 # Real-time Object Detection
 
-This project performs real-time object detection using YOLO and OpenCV.
+This project performs real-time object detection using YOLO and OpenCV. 
 
 ## 🚀 Features
 - Detect objects from webcam
