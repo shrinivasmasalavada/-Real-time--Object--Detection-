@@ -1,4 +1,4 @@
-# -Real-time--Object--Detection-
+ # -Real-time--Object--Detection-
 Real-time object detection using Python, OpenCV and YOLO. This project detects objects from webcam/live video.
 # Real-time Object Detection
 
